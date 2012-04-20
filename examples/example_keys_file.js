@@ -1,3 +1,6 @@
+exports.five00pxConsumerKey= "";
+exports.five00pxConsumerSecret= "";
+exports.five00pxCallbackAddress= "";
 exports.bitbucketConsumerKey= "";
 exports.bitbucketConsumerSecret= "";
 exports.bitbucketCallbackAddress= "http://yourtesthost.com/auth/bitbucket_callback";
